@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **chandramadhan70@gmail.com**
 
-- 📄 Know about my experiences [https://chandramadhan-v.netlify.app/my resume.pdf](https://chandramadhan-v.netlify.app/my resume.pdf)
+- 📄 Know about my experiences [https://chandramadhan-v.netlify.app/assests/My%20Resume.pdf](https://chandramadhan-v.netlify.app/assests/My%20Resume.pdf)
 
 - ⚡ Fun fact **I am lazy**
 
