@@ -15,13 +15,13 @@
 
 - 📫 How to reach me **chandramadhan70@gmail.com**
 
-- 📄 Know about my experiences [https://chandramadhan-v.netlify.app/assets/My%20Resume.pdf](https://chandramadhan-v.netlify.app/assets/My%20Resume.pdf)
+- 📄 Know about my experiences [https://chandramadhan-v.netlify.app/resume.pdf](https://chandramadhan-v.netlify.app/resume.pdf)
 
 - ⚡ Fun fact **I am lazy**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/chandramadhan v" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chandramadhan v" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/chandramadhanv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chandramadhan v" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/chandramadhan70" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="chandramadhan70" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/madhan05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="madhan05" height="30" width="40" /></a>
 </p>
